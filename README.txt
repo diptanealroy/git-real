@@ -10,4 +10,4 @@ droy does changes to the local readme file, while suroy made changes to the dash
 
 droy agrees with suroy that the cake is a lie
 
-droy making changes to README - this will require merge during rebase
+droy making changes to README - this will require merge during rebase. suroy making changes which will result in merge conflict during rebase exercise
